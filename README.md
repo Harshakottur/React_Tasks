@@ -37,7 +37,7 @@ If you aren't satisfied with the build tool and configuration choices, you can `
 
 Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However, we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
 
@@ -68,3 +68,34 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Cloning the Repository
+
+To clone the repository and run the project locally, follow these steps:
+
+1. Open your terminal or command prompt.
+2. Run the following command to clone the repository:
+
+```bash
+git clone https://github.com/Harshakottur/React_Tasks.git
+```
+
+3. Navigate to the project directory:
+
+```bash
+cd React_Tasks
+```
+
+4. Install the dependencies:
+
+```bash
+npm install
+```
+
+5. Start the development server:
+
+```bash
+npm start
+```
+
+This will open the app in your default browser at [http://localhost:3000](http://localhost:3000).
